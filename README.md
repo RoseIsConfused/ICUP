@@ -1,13 +1,15 @@
-# Item Command Utility Provider
+# Item Command Utility Provider (ICUP)
 
 ## Description
-- it's a mod my guy
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+- This mod allows you to bind commands to items and run those commands in different ways with the item.
 
 ## Features
-- cool shit
+- Bind commands to items.
+- execute those commands using different actions. (right click, left click, crouch right click, crouch left click, etc.)
+- The mod allows you binding commands using both commands or the provided UI. (UI is accessed by pressing "insert key here", by default, while holding an item.)
 
-## License
+"insert enticing preview images here"
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Additional Notes:
+yes ICUP is supposed to be funny.
+yes I am in-fact gay.
